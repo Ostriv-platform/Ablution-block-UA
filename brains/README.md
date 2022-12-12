@@ -11,9 +11,25 @@ Smart system to control ablution block should include but not limited to:
 * Lighting smart controller
 * general use logging
 
-Ideas how to make it: 
+Technology to make it happen: 
 
-Cobmine Arduino with multiple sesnors and relays with Raspberry pi for main control and OpenHub https://www.openhab.org/ as a software to link it all. 
+Cobmine microcontrollers with wireless cpabilities like ESP8266 and ESP32 with multiple sesnors and relays use a open source and powerfull main computer like Raspberry pi for main control and Home Assistant with ESPHome https://www.home-assistant.io/ as a software to link it all. 
+
+## General Setup (Current status to be updated)
+
+We use Raspberry pi 4 (8gb Ram version) as a main computer for Home Assistant and followed installation instructions from here https://www.home-assistant.io/installation/raspberrypi 
+
+As the wireless boards for ESPHome so far tested different versions of ESP8266: NodeMCU v1.1 and Wemos D1 mini, Wemos D1 mini pro. All boards seem to work as expected. They could be reprogrammed over wifi, after flashing them via USB connected directly to raspberry pi server. Followed different tutorials here from ESPHome and Home Assitant websites specific for the boards and sensors. 
+
+Home Assistant is the great platform that will allow to collect and diplay data, together with ESPHome it will allow ultimate flexibility and scalability for the smart systems in Ablution Block. 
+
+
+
+
+
+As the main platform for 
+
+
 
 
 
