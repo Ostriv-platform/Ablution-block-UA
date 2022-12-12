@@ -27,12 +27,3 @@ Home Assistant is the great platform that will allow to collect and diplay data,
 
 
 
-As the main platform for 
-
-
-
-
-
-
-
-
