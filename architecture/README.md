@@ -2,6 +2,7 @@
 
 ## A Section to collect and discuss solution from architects perspective
 
+* Site analysis
 * Draft plan
 * Shape and form 
 * Materials
