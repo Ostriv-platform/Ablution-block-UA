@@ -1,5 +1,5 @@
 # Architecture of ablution block
-![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/AB_general_view.jpg.jpg?raw=true)
+![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/AB_general_view.jpg?raw=true)
 
 ## A Section to collect and discuss solution from architects perspective
 
