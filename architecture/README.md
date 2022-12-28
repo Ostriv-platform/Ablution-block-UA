@@ -11,3 +11,9 @@ We came to idea that there are two independent parts of the ablution block: the 
 * Building Techniques
 * Lifespan
 
+## 3D models preview
+
+* [Floorplan](https://sketchfab.com/3d-models/ablution-block-floorplan-c5ae04f936dc4956b3c995a6bc6e64b7)
+* [Architectural shell](https://sketchfab.com/3d-models/ablution-block-architectural-shell-b237fb83927446d3bd272c5d6781d266)
+* [Section 1](https://sketchfab.com/3d-models/ablution-block-section-1-a9536ec7c8124eaa8b032453d974989e)
+* [Section 2](https://sketchfab.com/3d-models/ablution-block-section-2-dded0e86c08f41798daaf77d6c7681b1)
