@@ -1,17 +1,17 @@
-# Composting solution 
+# Рішення для компостування
 
-Ablution block needs a composter for all kinds of organic waste (including human manure) in order to reduce the footprint of human activities (sanitation, cooking, washing).  
+Ablution block‘у потрібен компостер для всіх видів органічних відходів (включаючи людські), щоб зменшити вплив людської діяльності (санітарія, приготування їжі, прання).  
 
-Various composting processes can be used in combination where appropriate: 
+За необхідності можна комбінувати різні процеси компостування: 
 
-* Vermicomposting
-* Aerated (Turned) Windrow Composting
-* Aerated Static Pile Composting
-* thermolific composting
+* Вермікомпостування 
+* Компостування з аерованим (перевернутим) вікном 
+* Компостування з аерованими статичними купами 
+* термофільний компост
 
 
 
-## References: 
+## Приклади: 
 
 https://wiki.opensourceecology.org/wiki/Thermophilic_compost 
 
