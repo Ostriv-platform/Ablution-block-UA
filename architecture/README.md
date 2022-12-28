@@ -8,7 +8,7 @@ We came to idea that there are two independent parts of the ablution block: the 
 * [Site analysis](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis)
 * [Architectural solutions](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Architectural%20solutions)
 * [Materials](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Materials)
-* Building Techniques
+* [Building Techniques](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Building%20Techniques)
 * Lifespan
 
 ## 3D models preview
