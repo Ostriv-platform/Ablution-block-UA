@@ -1,5 +1,5 @@
-# Building Techniques
+# Технології будівництва
 
-For the shell of ablution block we've choose combination of usual building techniques (that can be done by local builders) with digital fabrication. We've designed connectors for corrugated polycarbonate that repeats it's waveform and alloud to achieve hermetic connections. This parts as we imagine can be manufactured in the closest fab-lab.
+Для корпусу ablution block‘у ми вибрали комбінацію звичайних будівельних технологій (які можуть виконувати місцеві будівельники) з цифровим виробництвом. Ми розробили з’єднувачі для хвилястого полікарбонату, які повторюють його форму та дозволяє досягнути герметичного зєднання. Ці частини, як ми уявляємо, можуть бути виготовлені в найближчій майстерні фаб-лаб.
 
-[Here](https://drive.google.com/drive/u/2/folders/10UR8p7TDT7KDDBkvNuGbgcWhSY2tEU6H) you can download vectors for fabrication
+[Тут](https://drive.google.com/drive/u/2/folders/10UR8p7TDT7KDDBkvNuGbgcWhSY2tEU6H) ви можете завантажити файли для виготовлення конекторів
