@@ -1,12 +1,10 @@
-# Power station
+# Електростанція
 
-Ablution block needs a power solution to be able to power all systems that need electrycity (brains, sensors, heating, water pump, light etc.)
-A small power station can exist as a module on it's own and be included in Ablution Block where there is no connection to the grid. 
-Power station should be designed in the way that can be scaled up in terms of power production. 
+Блок Ablution потребує рішення для живлення всіх систем, які потребують електроенергії (мізки, датчики, опалення, водяний насос, світло тощо). Невелика електростанція може існувати як окремий модуль і бути включеною до блоку Ablution, де немає підключення до мережі. Електростанція повинна бути спроектована таким чином, щоб її можна було збільшити з точки зору виробництва електроенергії.
 
-Primery solutio for this will include: 
-* solar panels
-* charge controller
-* batteries
+Основне рішення для цього включатиме:
+* сонячні панелі
+* контролер заряду
+* акумулятори
 
-Potentiall combine Solar energy with wind tubine or hydro where possible, for example in windy areas and near water streams. 
+Є потенціал поєднання сонячної енергії з вітровою турбіною для гідроенергетики, де це можливо, наприклад, у вітряних районах і поблизу водних потоків.
