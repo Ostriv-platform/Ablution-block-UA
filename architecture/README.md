@@ -18,7 +18,7 @@ We came to idea that there are two independent parts of the ablution block: the 
 * [Section 1](https://sketchfab.com/3d-models/ablution-block-section-1-a9536ec7c8124eaa8b032453d974989e)
 * [Section 2](https://sketchfab.com/3d-models/ablution-block-section-2-dded0e86c08f41798daaf77d6c7681b1)
 <br/><br/>
-* [Download 3d models](https://drive.google.com/drive/u/2/folders/15KkdQlHhQRDj7emW6rTR81xcFwVz1Tde) (obj,fbx)
+* [Download 3d models](https://drive.google.com/drive/u/2/folders/15KkdQlHhQRDj7emW6rTR81xcFwVz1Tde) (obj, fbx)
 * [Download 3d model](https://drive.google.com/drive/u/2/folders/1bNbhkChx5Hc6ioeDLcWsK2XGiT8ibK4o) (Rhinoceros)
 
 ## Photos
