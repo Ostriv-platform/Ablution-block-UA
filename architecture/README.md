@@ -11,6 +11,8 @@ We came to idea that there are two independent parts of the ablution block: the 
 * [Building Techniques](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Building%20Techniques)
 * Lifespan
 
+* [Photos of building process]()
+
 ## 3D models preview
 
 * [Floorplan](https://sketchfab.com/3d-models/ablution-block-floorplan-c5ae04f936dc4956b3c995a6bc6e64b7)
