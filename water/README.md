@@ -1,26 +1,23 @@
-# Water Solutions
+# Управління водою
 
-## Drinking water / Technical water
-In some locations where there is unverified water source or no water source, it would be great if Ablution block could have some kind of water collection and filtration system. 
-Water filtration system can make sure that there is a source of drinking / technical water that is safe to use.
-
-
-## Waste Water
-There is a lof of water used by human life actyvities (washing, cooking) that needs to be reused, preserved or safely disposed. 
-We want to experiment with grey and black water filtration systems. 
-Filtering water to the level that it can be used again as technical water could reduce total water consumption. 
-
-### Grey water
-Seperating grey water can make it much easier to clean and reuse water. Using available filters in conjunction with biological ways to clean water (ponds, plant etc.)
+## Вода питна/Технічна вода
+У деяких місцях, де є неперевірене джерело води або немає джерела води, було б чудово, якби Ablution block міг мати якусь систему збору води та фільтрації.
+Система фільтрації води може забезпечити наявність безпечного для використання джерела питної/технічної води.
 
 
+## Брудна вода
+Велика кількість води використовується для життєдіяльності людини (прання, приготування їжі), яку потрібно повторно використовувати, зберігати або безпечно утилізувати.
+Ми хочемо поекспериментувати з системами фільтрації сірої та чорної води.
+Фільтрування води до такого рівня, щоб її можна було знову використовувати як технічну, може зменшити загальне споживання води.
 
-### Black water
-We would like to work on low cost and effcicient alternative to septic tanks for black water. One of the alternatives available on the market is Bio-Septics of different types. 
+### Сіра вода
+Відділення сірої води може значно полегшити очищення та повторне використання води. Використання доступних фільтрів у поєднанні з біологічними способами очищення води (ставки, рослини тощо)
 
 
 
-Our aim is to test existing systems in order to developing an open source set of instructions for producing bio-septic. 
+### Чорна вода
+Ми хотіли б працювати над недорогою та ефективною альтернативою септикам для чорної води. Однією з альтернатив, доступних на ринку, є біосептики різних типів.
 
 
-## Useful examples:
+
+Наша мета полягає в тому, щоб протестувати існуючі системи, щоб розробити набір інструкцій з відкритим вихідним кодом для виробництва біосептиків.
