@@ -20,4 +20,4 @@ We came to idea that there are two independent parts of the ablution block: the 
 
 ## Photos
 
-* [Photos of building process]()
+* [Photos of building process](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Process%20photos)
