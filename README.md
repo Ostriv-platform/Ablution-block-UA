@@ -1,6 +1,7 @@
 # Ablution block
 
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/work%20in%20progress.jpeg?raw=true)
+[English version](https://github.com/Lifesystems-Laboratory/ablution-block)
 
 ## Визначення
 Ablution block — простір спільного користування з душем, туалетом та кухнею, який може допомогти забезпечити комфортні умови у віддалених куточках країни, селах, місцях, де інфраструктура зруйнована. 
