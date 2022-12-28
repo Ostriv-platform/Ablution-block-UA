@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/integrated%20system/integrated_system.jpg?raw=true)
 
-[View 3D model](https://sketchfab.com/3d-models/ablution-block-engineering-systems-5aa6472397a7414297a3cd75e5811d56)
+* [View 3D model](https://sketchfab.com/3d-models/ablution-block-engineering-systems-5aa6472397a7414297a3cd75e5811d56)
 
 ### Solar collector. 
 We place the collector between the shells. This makes it possible to increase its productivity in case of severe frosts. It is possible to increase the number of collectors up to 6 pieces.
