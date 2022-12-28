@@ -1,4 +1,4 @@
-# Open Source off grid ablution block
+# Ablution block
 
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/work%20in%20progress.jpeg?raw=true)
 
