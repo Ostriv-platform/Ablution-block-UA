@@ -13,7 +13,7 @@ We have been experimenting with various systems for sustainable  lifestyle, incl
 We would like to use open source model for developing solutions for ablution block in these main categories  
 
 * [Architecture](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture) (general concept, shape, materials, construction methods, user experience)
-* [Integrated engineering systems]() (how all systems can be combined)
+* [Integrated engineering systems](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/integrated%20system) (how all systems can be combined)
 * Water (drinking water collection/filtration, waste water management)
 * Power (electricity source)
 * Composting (composter for all organic waste)
