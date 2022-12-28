@@ -14,11 +14,11 @@ We would like to use open source model for developing solutions for ablution blo
 
 * [Architecture](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture) (general concept, shape, materials, construction methods, user experience)
 * [Integrated engineering systems](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/integrated%20system) (how all systems can be combined)
-* Water (drinking water collection/filtration, waste water management)
-* Power (electricity source)
-* Composting (composter for all organic waste)
-* Heating / cooling (heat system for all purposes)
-* Brains (smart systems to control everything and collect usage data)
+* [Water](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/water) (drinking water collection/filtration, waste water management)
+* [Power](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/power%20station) (electricity source)
+* [Composting](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/composting) (composter for all organic waste)
+* [Heating](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/heating-cooling) / cooling (heat system for all purposes)
+* [Brains](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/brains) (smart systems to control everything and collect usage data)
 
 There is an overlap in all this categories and there could be common modules, so these categories are mainly for easier collaboration and grouping problems by expertise. 
 
