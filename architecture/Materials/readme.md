@@ -1,3 +1,3 @@
-# Materials
+# Матеріали
 
-The main materials we've use is wood (wooden beams and planks and also plywood), corrugated polycarbonate (for the transparent parts of the shell) and galvanized corrugated metal sheets (roof and wall from north). Additional materials are natural insolation from hemp, ceramic thermal mass and others.
+Основними матеріалами, які ми використовуємо, є дерево (дерев'яні бруси та дошки, а також фанера), гофрований полікарбонат (для прозорих частин оболонки) та оцинкований гофрований металевий лист (дах і стіна з півночі). Додатковими матеріалами є природні утеплювачі з коноплі, керамічна термомаса та ін.
