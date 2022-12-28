@@ -1,4 +1,4 @@
-# Архітектур Аblution block‘у
+# Архітектура Аblution block‘у
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/AB_general_view.jpg?raw=true)
 
 ## Розділ для збору та обговорення рішень з точки зору архітектури
