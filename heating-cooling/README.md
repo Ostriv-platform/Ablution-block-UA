@@ -1,11 +1,11 @@
-# Heating and cooling solutions 
+# Рішення для опалення та охолодження
 
-Looking into various heating and cooling solutions for a climate control inside Ablutions block as well as for water heating, cooking, or space cooling in summer. 
+Вивчаємо різні рішення для опалення та охолодження для клімат-контролю всередині Ablution block‘у, а також для підігріву води, приготування їжі або охолодження приміщень влітку.
 
-Some potential solutions to look at are: 
+Нижче наведено деякі потенційні рішення, які варто розглянути. 
 
-* air conditioner 
-* heat pump
-* solar collector
-* wood stove
-* biogas 
+* кондиціонер
+* тепловий насос
+* сонячний колектор
+* піч на дровах
+* біогаз
