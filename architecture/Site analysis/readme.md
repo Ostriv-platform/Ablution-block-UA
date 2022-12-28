@@ -1,16 +1,16 @@
-## Site analysis
+## Аналіз ділянки
 
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/Site%20analysis/Solar%20analysis/Shell_Trees_January.jpg?raw=true)
 
-The main questions for us were what ammount of solar energy we can collect on the surfases of our shell and what amount of rainwater we can have in each month from the roof to use in ablution blok.
+Основні питання для нас полягали в тому, яку кількість сонячної енергії ми можемо зібрати на поверхонь нашої оболонки та яку кількість дощової води ми можемо отримувати щомісяця з даху для використання в ablution-block.
 
-Firstly, we've make a scan of the site using iPad with lidar for the ground and relief scan and photos from drone to have trees with leaves in the simulation. Photogrammetry was a technique for making models from photos. 
+Спершу, ми відсканували ділянку за допомогою iPad із лідаром щоб отримати модель поверхні та рельєфу та зробили серію знімків з дрона, щоб мати дерева з листям у симуляції. Модель із фотографій отримали технологією фотогамметрії. 
 
-For the simulatons we've use weather data for our region and also statistics from geo-meteo-centre. Here is the [link](https://climate.onebuilding.org/) to data sourses that we used.
-Simulations were made in [Rihnoceros 3d](https://www.rhino3d.com/) program using [Ladybug tools](https://www.ladybug.tools) and [Grasshopper](https://grasshopperdocs.com) plugin.
+Для моделювання ми використали дані про погоду для нашого регіону, а також статистику з геометеоцентру. Тут [посилання](https://climate.onebuilding.org/) на джерела даних, які ми використовували.
+Симуляції робилися у програмі [Rihnoceros 3d](https://www.rhino3d.com/) за допомогою плагінів [Ladybug tools](https://www.ladybug.tools) та [Grasshopper](https://grasshopperdocs.com).
 
-Here is some of simulation results for [solar analysis](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis/Solar%20analysis) and [rainwater analysis](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis/Rainwater%20analysis). The software is powerfull enough to simulate also heating systems and work of the solar panels.
+Ось деякі з результатів моделювання для [сонячної енергії](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis/Solar%20analysis) та [кількості опадів](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis/Rainwater%20analysis). Програмне забезпечення достатньо потужне, щоб симулювати системи опалення та роботу сонячних панелей.
 
-After this analysis we've choose the orientation of the shell and desided not to make transpsrent roof and wall from the north side. 
+Після цього аналізу ми вибрали орієнтацію будівлі і вирішили не робити прозорим дах і стіну з північної сторони.
 
-* [Table of anual analysis](https://docs.google.com/spreadsheets/d/1BVhZFLM0lXLi8E8x7hWJxwmZEYVfST64a9QNRfvf3Kk/edit#gid=0)
+* [Таблиця аналізу впродовж року](https://docs.google.com/spreadsheets/d/1BVhZFLM0lXLi8E8x7hWJxwmZEYVfST64a9QNRfvf3Kk/edit#gid=0)
