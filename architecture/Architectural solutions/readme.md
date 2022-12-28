@@ -1,5 +1,6 @@
 # Стадії будівельного процесу
-Монтування паль
+
+Монтаж паль
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/Architectural%20solutions/1.jpg?raw=true)
 Зв‘язування паль
 ![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/Architectural%20solutions/2.jpg?raw=true)
