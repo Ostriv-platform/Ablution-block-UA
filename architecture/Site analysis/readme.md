@@ -12,3 +12,5 @@ Simulations were made in Rihnoceros 3d program using Ladybug tools () and Grassh
 Here is some of simulation results. The software is powerfull enough to simulate also heating systems and work of the solar panels.
 
 After this analysis we've choose the orientation of the shell and desided not to make transpsrent roof and wall from the north side. 
+
+* [Table of anual analysis](https://docs.google.com/spreadsheets/d/1BVhZFLM0lXLi8E8x7hWJxwmZEYVfST64a9QNRfvf3Kk/edit#gid=0)
