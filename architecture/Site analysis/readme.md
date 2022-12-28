@@ -6,7 +6,7 @@ The main questions for us were what ammount of solar energy we can collect on th
 
 Firstly, we've make a scan of the site using iPad with lidar for the ground and relief scan and photos from drone to have trees with leaves in the simulation. Photogrammetry was a technique for making models from photos. 
 
-For the simulatons we've use weather data for our region and also statistics from geo-meteo-centre. Here is the links for our data sourses ().
+For the simulatons we've use weather data for our region and also statistics from geo-meteo-centre. Here is the [link](https://climate.onebuilding.org/) for our data sourses.
 Simulations were made in Rihnoceros 3d program using Ladybug tools () and Grasshopper plugin.
 
 Here is some of simulation results. The software is powerfull enough to simulate also heating systems and work of the solar panels.
