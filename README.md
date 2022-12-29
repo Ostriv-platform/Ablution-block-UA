@@ -1,6 +1,6 @@
 # Ablution block
 
-![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/work%20in%20progress.jpeg?raw=true)
+![alt text](https://github.com/Ostriv-platform/Ablution-block-UA/blob/main/work%20in%20progress.jpeg?raw=true)
 [English version](https://github.com/Lifesystems-Laboratory/ablution-block)
 
 ## Визначення
@@ -13,13 +13,13 @@ Ablution block — простір спільного користування з
 ## Підхід 
 Ми хотіли б використовувати модель open-source для розробки рішень для Ablution block‘у в цих основних категоріях 
 
-* [Архітектура](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture) (загальна концепція, форма, матеріали, методи будівництва, користувацький досвід)
-* [Інтегація інженерних систем](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/integrated%20system) (як можна поєднати усі системи)
-* [Вода](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/water) (збір/фільтрація питної води, управління брудною водою)
-* [Енергія](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/power%20station) (джерела енергії)
-* [Компостування](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/composting) (компостер для всіх органічних відходів)
-* [Обігрів / охолодження / кондиціювання](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/heating-cooling) (універсальна система контролю температури)
-* [Мізки](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/brains) (розумні системи для контролю всього та збору даних про використання ресурсів)
+* [Архітектура](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/architecture) (загальна концепція, форма, матеріали, методи будівництва, користувацький досвід)
+* [Інтегація інженерних систем](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/integrated%20system) (як можна поєднати усі системи)
+* [Вода](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/water) (збір/фільтрація питної води, управління брудною водою)
+* [Енергія](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/power%20station) (джерела енергії)
+* [Компостування](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/composting) (компостер для всіх органічних відходів)
+* [Обігрів / охолодження / кондиціювання](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/heating-cooling) (універсальна система контролю температури)
+* [Мізки](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/brains) (розумні системи для контролю всього та збору даних про використання ресурсів)
 
 Усі ці категорії перетинаються, і можуть бути спільні блоки, тому ці категорії здебільшого призначені для полегшення співпраці та групування проблем за знаннями.
 
