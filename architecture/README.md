@@ -1,14 +1,14 @@
 # Архітектура Аblution block‘у
-![alt text](https://github.com/Lifesystems-Laboratory/ablution-block/blob/main/architecture/AB_general_view.jpg?raw=true)
+![alt text](https://github.com/Ostriv-platform/Ablution-block-UA/blob/main/architecture/AB_general_view.jpg?raw=true)
 
 ## Розділ для збору та обговорення рішень з точки зору архітектури
 
 Ми прийшли до думки, що є дві незалежні частини Аblution block‘у: Ядро і Оболонка. У цьому випадку ядро може бути уніфікованим здебільшого технологічним рішенням (зосередженим на системах, їх ефективності та інтеграції). Оболонка ж може бути різною в різних випадках і орієнтуватися на контекст у якому створюється. Архітектура оболонки першого прототипу відповідає контексту Creative Rural Hub як майданчика. Аналіз ділянки проектування, з якого ми почали проектування, вплинув на остаточний дизайн. Тим не менш, цю оболонку можна використовувати в багатьох подібних випадках.
 
-* [Аналіз ділянки](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Site%20analysis)
-* [Архітектурні рішення](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Architectural%20solutions)
-* [Матеріали](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Materials)
-* [Техніки будівництва](https://github.com/Lifesystems-Laboratory/ablution-block/tree/main/architecture/Building%20Techniques)
+* [Аналіз ділянки](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/architecture/Site%20analysis)
+* [Архітектурні рішення](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/architecture/Architectural%20solutions)
+* [Матеріали](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/architecture/Materials)
+* [Техніки будівництва](https://github.com/Ostriv-platform/Ablution-block-UA/tree/main/architecture/Building%20Techniques)
 * Термін служби
 
 ## Переглянути 3D моделі
